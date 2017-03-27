@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack -w & nodemon -e js,html server.js"
+    "start": "webpack -w & nodemon -e js,html,css server.js"
   },
   "keywords": [],
   "author": "",
